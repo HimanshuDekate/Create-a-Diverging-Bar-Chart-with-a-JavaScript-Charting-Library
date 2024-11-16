@@ -1,0 +1,2 @@
+# Create-a-Diverging-Bar-Chart-with-a-JavaScript-Charting-Library
+This document provides a comprehensive overview of a JavaScript-based diverging bar chart that visualizes the win-loss record of the LA Lakers over a span of 20 years, specifically during the tenure of Kobe Bryant from 1996 to 2016. The chart utilizes the AnyChart library to create an interactive and visually appealing representation of the data.
